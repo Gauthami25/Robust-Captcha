@@ -1,4 +1,4 @@
-# CAPTCHA Vulnerabilities
+# CAPTCHA vulnerabilities and robust alternatives
 
 The term CAPTCHA is an acronym for completely automated public Turing test to tell
 computers and humans apart. This is a computer program that intends to distinguish
